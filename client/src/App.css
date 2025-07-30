@@ -1,0 +1,36 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #F7F7F2;
+  color: #2F2F2F;
+  margin: 0;
+  padding: 0;
+}
+
+.hero-section {
+  background-color: #F7F7F2;
+  color: #2F2F2F;
+}
+
+button,
+.btn-dark {
+  background-color: #A26769;
+  border: none;
+  transition: background-color 0.3 ease;
+}
+
+button:hover,
+.btn-dark:hover {
+  background-color: #B49394;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

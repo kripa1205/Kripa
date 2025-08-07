@@ -10,7 +10,7 @@ import Login from './pages/login';
 import Signup from './pages/signup';
 import Dashboard from './pages/dashboard';
 
-import CartProvider from './context/CartContext'; // 🛒 Import the provider
+import CartProvider from './context/cartcontext'; // 🛒 Import the provider
 
 function App() {
   return (
